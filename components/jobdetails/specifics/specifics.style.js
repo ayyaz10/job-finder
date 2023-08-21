@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   pointDot: {
     width: 6,
     height: 6,
-    borderRadius: 6,
+    borderRadius:6,
     backgroundColor: COLORS.gray2,
     marginTop: 6,
   },
